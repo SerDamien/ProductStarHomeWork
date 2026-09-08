@@ -10,7 +10,8 @@ public class AreaOfRectangle {
         System.out.println("");
         System.out.print("Введите ширину прямоугольника: ");
         double width = input.nextDouble();
+        double area = length * width;
         System.out.println("");
-        System.out.println("Площадь прямоугольника: " + length * width);
+        System.out.println("Площадь прямоугольника: " + area);
     }
 }
