@@ -7,7 +7,6 @@ public class StackHomework {
 
     public static void validator(String str) {
         Stack<String> stack = new Stack();
-        // Регулярное выражение "<[^>]+>" находит каждый отдельный тег
         for (int i = 0; i < str.length(); i++) {
             char ch = str.charAt(i);
             if (ch == '<') {
@@ -27,7 +26,7 @@ public class StackHomework {
                     String lastTag = stack.pop();
                     String tag1 = tag.substring(1, tag.length()-1);
                     String tag2 = lastTag.substring(1, lastTag.length()-1);
-                    if  (!tag1.equals(tag2)){
+                    if  (!tag1.equals("/" + tag2)){
                         System.out.println("Ошибка. Ожидается закрывающий тег для: " + lastTag);
                         return;
                     }
