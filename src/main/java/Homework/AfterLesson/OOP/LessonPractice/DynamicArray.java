@@ -1,8 +1,5 @@
-package Homework.AfterLesson;
+package Homework.AfterLesson.OOP.LessonPractice;
 
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
 
 public class DynamicArray {
     private int[] array;

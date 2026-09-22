@@ -1,4 +1,4 @@
-package Homework.AfterLesson;
+package Homework.AfterLesson.OOP.LessonPractice;
 
 public class SearchElementInArray {
     public static void main(String[] args) {
