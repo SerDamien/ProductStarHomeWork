@@ -1,4 +1,4 @@
-package Homework.AfterLesson.OOP.LessonPractice;
+package Homework.AfterLesson.OOP.LessonPractice.Complete;
 
     // Класс для узла дерева
     class Node {
