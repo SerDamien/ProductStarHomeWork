@@ -1,4 +1,4 @@
-package Homework.CollectionsLearn.Practice2;
+package Homework.CollectionsLearn.Practice2.Coworking;
 
 public class Main {
     public static void main(String[] args) {

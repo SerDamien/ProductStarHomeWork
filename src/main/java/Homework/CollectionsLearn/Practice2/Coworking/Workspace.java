@@ -1,6 +1,4 @@
-package Homework.CollectionsLearn.Practice2;
-
-import java.util.TreeSet;
+package Homework.CollectionsLearn.Practice2.Coworking;
 
 public class Workspace implements Comparable<Workspace> {
     @Override

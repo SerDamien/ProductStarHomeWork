@@ -1,4 +1,4 @@
-package Homework.CollectionsLearn.Practice2;
+package Homework.CollectionsLearn.Practice2.Coworking;
 
 import java.util.TreeSet;
 import java.util.UUID;

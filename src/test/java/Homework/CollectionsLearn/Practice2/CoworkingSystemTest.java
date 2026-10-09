@@ -1,5 +1,8 @@
 package Homework.CollectionsLearn.Practice2;
 
+import Homework.CollectionsLearn.Practice2.Coworking.CoworkingSystem;
+import Homework.CollectionsLearn.Practice2.Coworking.User;
+import Homework.CollectionsLearn.Practice2.Coworking.Workspace;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
